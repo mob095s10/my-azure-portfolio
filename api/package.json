@@ -1,16 +1,10 @@
 {
-  "name": "",
+  "name": "portfolio-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/functions/*.js",
+  "description": "Azure Functions API for portfolio",
   "scripts": {
-    "start": "func start",
-    "test": "echo \"No tests yet...\""
+    "start": "func start"
   },
-  "dependencies": {
-    "@azure/functions": "^4.0.0"
-  },
-  "devDependencies": {
-    "azure-functions-core-tools": "^4.x"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
