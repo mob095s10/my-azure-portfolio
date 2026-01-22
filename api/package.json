@@ -5,6 +5,7 @@
   "scripts": {
     "start": "func start"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.6"
+  }
 }
